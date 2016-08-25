@@ -1,0 +1,7 @@
+*~
+*pyc
+build/
+*_wrap.cpp
+max_tree_alpha_aux.py
+morph_tree_alpha_aux.py
+*.DS_Store

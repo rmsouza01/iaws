@@ -1,0 +1,19 @@
+Metadata-Version: 1.0
+Name: iaws
+Version: 0.1
+Summary: Watershed implementations
+Home-page: ...
+Author: Roberto M Souza and collaborators
+Author-email: roberto.medeiros.souza@gmail.com
+License: BSD 2 clauses
+
+Description: 
+...
+        
+Keywords: image processing,mathematical morphology,max-tree
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python and C++ glued with SWIG
+Classifier: Topic :: Scientific/Engineering :: Mathematical Morphology
+Classifier: License :: BSD 4 clauses
